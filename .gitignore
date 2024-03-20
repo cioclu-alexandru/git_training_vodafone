@@ -1,0 +1,5 @@
+.ideea/
+env/
+venv/
+dj-env/
+*.123
